@@ -1,3 +1,12 @@
 -Keyword:Tranposition
 
 -Tranposition : The process of reordering the plaintext to hide the message by using the -same letters or bits.
+
+-Gemini : การย้ายที่ เปลี่ยนตำแหน่ง หรือการเคลื่อนย้ายสิ่งของ ข้อมูล หรือแม้แต่แนวคิดจากที่หนึ่งไปยังอีกที่หนึ่ง
+-Chatgpt : การสลับที่ มีความหมายหลายอย่างขึ้นอยู่กับบริบท โดยทั่วไปหมายถึงการเปลี่ยนตำแหน่งหรือการจัดเรียงใหม่ของสิ่งต่าง ๆ ในลักษณะต่าง ๆ
+
+-2nd Source(Tranposition)wikipidia
+-a permutation which exchanges two elements and keeps all others fixed
+-Gimini : กระบวนการจัดเรียงลำดับตัวอักษรหรือบิตของข้อความต้นฉบับใหม่ เพื่อซ่อนข้อความ โดยใช้ตัวอักษรหรือบิตเดิม
+-Chatgptการเข้ารหัสแบบ Transposition Cipher ในวิชาเข้ารหัสลับ (Cryptography) ซึ่งเป็นวิธีการเข้ารหัสที่ตำแหน่งของตัวอักษร (หรือบิต) ในข้อความต้นฉบับ (Plaintext) ถูกจัดเรียงใหม่ตามระบบหรือรูปแบบที่กำหนดไว้ โดยตัวอักษรหรือบิตในข้อความจะยังคงเหมือนเดิม แต่ตำแหน่งจะเปลี่ยนไป
+

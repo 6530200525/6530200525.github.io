@@ -6,19 +6,21 @@
 accurency Source:[https://www.sagacitysolutions.co.uk/about/news-and-blog/data-quality-dimensions/]
 
 ## Meaning by ChatGPT
-"Accuracy in data refers to the correctness and truthfulness of the information stored or processed. Accurate data means it reflects real-world facts correctly without errors, such as correct names, addresses, or numerical values."
+คำว่า "accuracy" (ความถูกต้อง) หมายถึง ความถูกต้องหรือความแม่นยำของข้อมูลที่สะท้อนถึงความเป็นจริงหรือมาตรฐานที่ตั้งไว้ ข้อมูลที่มีความถูกต้องจะต้องไม่มีข้อผิดพลาดและตรงกับสิ่งที่ควรจะเป็น เช่น ชื่อ ที่อยู่ ตัวเลข หรือข้อมูลต่างๆ ที่ต้องไม่มีความคลาดเคลื่อนจากความจริง ดังนั้น accuracy จึงเกี่ยวข้องกับการทำให้แน่ใจว่าข้อมูลที่เรามีมีความถูกต้อง ตรงกับสิ่งที่เกิดขึ้นจริงหรือมาตรฐานที่ถูกต้อง.
 
 ## Meaning by Gemini
-"Data accuracy ensures that the information presented matches the real-world values. It is about minimizing discrepancies and ensuring that data used in decision-making, operations, and analytics is precise and trustworthy."
+ความหมายของ Data Accuracy (ความแม่นยำของข้อมูล)
+Data accuracy หรือ ความแม่นยำของข้อมูล หมายถึง ระดับความถูกต้องของข้อมูลเมื่อเปรียบเทียบกับค่าจริงหรือค่าที่ถูกต้องที่สุด กล่าวคือ ข้อมูลนั้นใกล้เคียงกับความเป็นจริงมากน้อยแค่ไหน
+Data accuracy เป็นสิ่งสำคัญอย่างยิ่งในการทำงานทุกด้าน ไม่ว่าจะเป็นด้านวิทยาศาสตร์ การวิเคราะห์ข้อมูล หรือการตัดสินใจทางธุรกิจ การใส่ใจในความแม่นยำของข้อมูลจะช่วยให้เราได้ผลลัพธ์ที่ถูกต้องและเชื่อถือได้
 
 ## My Summary
 ความถูกต้องของข้อมูลหมายถึงการที่ข้อมูลมีความแม่นยำและสะท้อนถึงความเป็นจริง โดยไม่มีข้อผิดพลาดหรือความคลาดเคลื่อน ซึ่งสำคัญมากในการตัดสินใจและการวิเคราะห์ข้อมูลที่มีผลกระทบต่อการดำเนินงานต่างๆ
 
 ## Sample
 ### ถูกต้อง:
-- ชื่อของลูกค้า: "John Doe"
-- ที่อยู่: "1234 Elm Street, Springfield"
+- ชื่อของลูกค้า: "ชลสิทธิ์"
+- ที่อยู่: "12/34 ศรีราชา, ชลบุรี"
 
 ### ไม่ถูกต้อง:
-- ชื่อของลูกค้า: "Jonh Do"
-- ที่อยู่: "123 Elm Stret, Sprinfield"
+- ชื่อของลูกค้า: "ชลสิทธิ์"
+- ที่อยู่: "1-23 ศรีราชา, ชลบุรี"

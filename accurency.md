@@ -2,7 +2,7 @@
 
 ## Definition
 -Data is accurate when it reflects reality. Data accuracy refers to having correct data entries, such as names, numbers, addresses, and other information. As an example, if a customer’s address information says they live at number 9, but they actually live at number 19, the data is inaccurate
-accurency Source 
+accurency Source[https://www.sagacitysolutions.co.uk/about/news-and-blog/data-quality-dimensions/]
 
 ## Meaning by ChatGPT
 "Accuracy in data refers to the correctness and truthfulness of the information stored or processed. Accurate data means it reflects real-world facts correctly without errors, such as correct names, addresses, or numerical values."

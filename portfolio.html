@@ -50,16 +50,88 @@
     .btn:hover {
       background-color: #ff4a6e;
     }
+
+    /* เพิ่ม CSS สำหรับ My Projects */
+    .projects-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+      padding: 40px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .project-card {
+      background-color: #292929;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      padding: 20px;
+      transition: transform 0.3s, box-shadow 0.3s;
+      color: #fff;
+    }
+    .project-card:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+    }
+    .project-icon {
+      font-size: 40px;
+      color: #ff6f91;
+      margin-bottom: 15px;
+    }
+    .project-title {
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    .project-description {
+      font-size: 14px;
+      color: #bbb;
+    }
   </style>
 </head>
 <body>
+  <!-- Section แรก -->
   <div class="container">
     <div class="profile-pic">
       <img src="file/IMG_1010.jpeg" alt="image error">
     </div>
     <h1>I'm Sittikorn Pratomwan</h1>
-    <h2>Pragrammer</h2>
+    <h2>Programmer</h2>
     <a href="#about" class="btn">More About Me</a>
+  </div>
+
+  <!-- Section My Projects -->
+  <h1>My Projects</h1>
+  <div class="projects-container">
+    <div class="project-card">
+      <div class="project-icon">📱</div>
+      <div class="project-title">Responsive Design</div>
+      <div class="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</div>
+    </div>
+    <div class="project-card">
+      <div class="project-icon">💻</div>
+      <div class="project-title">Web Development</div>
+      <div class="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</div>
+    </div>
+    <div class="project-card">
+      <div class="project-icon">🎨</div>
+      <div class="project-title">Graphic Design</div>
+      <div class="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</div>
+    </div>
+    <div class="project-card">
+      <div class="project-icon">🔍</div>
+      <div class="project-title">SEO Optimization</div>
+      <div class="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</div>
+    </div>
+    <div class="project-card">
+      <div class="project-icon">🛠️</div>
+      <div class="project-title">Tool Development</div>
+      <div class="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</div>
+    </div>
+    <div class="project-card">
+      <div class="project-icon">📊</div>
+      <div class="project-title">Data Analysis</div>
+      <div class="project-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.</div>
+    </div>
   </div>
 </body>
 </html>

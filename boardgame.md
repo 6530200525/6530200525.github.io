@@ -15,3 +15,5 @@ Grop "ก๊อง v.3"
 สมาชิก นายสรสิช ปัญญางค์ [https://bossmahob.github.io/cyberboardgame.html]
 
 สมาชิก นายชลสิทธิ์ กิจกุลพิเชฐ [https://markchonlasit.github.io/chonlasitK.github.io/boardgame]
+
+สมาชิก นายธนพัฒน์ อุไรวงษ์ [https://friday1313.github.io/cyberboardgame]

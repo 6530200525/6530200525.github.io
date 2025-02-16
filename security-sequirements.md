@@ -18,4 +18,4 @@ upper or lower case or numbers or special characters.
 ### 📌 My self
 🔹 ตรวจสอบว่าระบบ *ไม่ได้บังคับ* ให้ผู้ใช้ต้องตั้งรหัสผ่านตามกฎที่จำกัดรูปแบบของตัวอักษร  รหัสผ่านควรยืดหยุ่น ให้ผู้ใช้สามารถตั้งค่าได้เองโดยไม่มีข้อจำกัด 
 
-URL งาน : [Chonlasit_6530200088](https://6530200088.github.io/)
+URL งาน : [Chonlasit_6530200088](https://6530200088.github.io/security-requirements)
